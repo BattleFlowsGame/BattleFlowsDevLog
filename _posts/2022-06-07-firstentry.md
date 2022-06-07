@@ -3,6 +3,8 @@ title: "Dev log entry #1"
 date: 2022-06-07
 ---
 
+(click on title to see the full entry)
+
 Todos (still need to be refined by priority and planned deadline)
 - Improve the movement code. Troops need to flow out proportionally to the troop count in the source cell, so troops will flow much more quickly out of a full cell than a near-empty cell
 - Improve the combat code. Losses for each side should be proportional to the ratio of enemy to friendly troops

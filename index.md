@@ -1,5 +1,5 @@
 ---
-title: "Welcome to my blog"
+title: "Dev log for Battle Flows"
 ---
 
-I'm glad you are here. I plan to talk about ...
+On this page I will keep an up-to-date development log for Battle Flows.
